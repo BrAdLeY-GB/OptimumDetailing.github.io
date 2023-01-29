@@ -1,0 +1,376 @@
+Uri: https://fonts.googleapis.com/css?family=Montserrat:400,700
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\css-1
+Content Type: text/css
+
+Uri: https://fonts.googleapis.com/css?family=Open+Sans:300,400italic,400,600,600italic,700,800,800italic
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\s\opensans\v34\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk0ZjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\s\opensans\v34\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\s\opensans\v34\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\beacon.min.js\vaafb692b2aea4879b33c060e79fe94621666317369993
+Content Type: text/javascript
+
+Uri: https://www.detailingtemplates.com/analytics/matomo.php?idsite=1&rec=1
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\analytics\matomo.php
+Content Type: image/gif
+
+Uri: https://www.detailingtemplates.com/cdn-cgi/apps/head/EMsQGAjDBK4CDnOenlmG8eiF9GA.js
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\cdn-cgi\apps\head\EMsQGAjDBK4CDnOenlmG8eiF9GA.js
+Content Type: application/javascript
+
+Uri: https://www.detailingtemplates.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://www.detailingtemplates.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\cdn-cgi\scripts\7d0fa10a\cloudflare-static\rocket-loader.min.js
+Content Type: application/javascript
+
+Uri: https://www.detailingtemplates.com/templates/007/about.html
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\about.html
+Content Type: text/html
+
+Uri: https://www.detailingtemplates.com/templates/007/contact.html
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\contact.html
+Content Type: text/html
+
+Uri: https://www.detailingtemplates.com/templates/007/css/base-sizing.css
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\css\base-sizing.css
+Content Type: text/css
+
+Uri: https://www.detailingtemplates.com/templates/007/css/bootstrap.css
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\css\bootstrap.css
+Content Type: text/css
+
+Uri: https://www.detailingtemplates.com/templates/007/css/custom.css
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\css\custom.css
+Content Type: text/css
+
+Uri: https://www.detailingtemplates.com/templates/007/css/responsive.css
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\css\responsive.css
+Content Type: text/css
+
+Uri: https://www.detailingtemplates.com/templates/007/css/sliders/css3-panels/css3-panels.css
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\css\sliders\css3-panels\css3-panels.css
+Content Type: text/css
+
+Uri: https://www.detailingtemplates.com/templates/007/css/template.css
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\css\template.css
+Content Type: text/css
+
+Uri: https://www.detailingtemplates.com/templates/007/fonts/font-awesome/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\fonts\font-awesome\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://www.detailingtemplates.com/templates/007/fonts/font-awesome/fonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\fonts\font-awesome\fonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.detailingtemplates.com/templates/007/fonts/font-awesome/fonts/fa-brands-400.eot?
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\fonts\font-awesome\fonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.detailingtemplates.com/templates/007/fonts/font-awesome/fonts/fa-brands-400.svg
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\fonts\font-awesome\fonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://www.detailingtemplates.com/templates/007/fonts/font-awesome/fonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\fonts\font-awesome\fonts\fa-brands-400.ttf
+Content Type: font/ttf
+
+Uri: https://www.detailingtemplates.com/templates/007/fonts/font-awesome/fonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\fonts\font-awesome\fonts\fa-brands-400.woff
+Content Type: font/woff
+
+Uri: https://www.detailingtemplates.com/templates/007/fonts/font-awesome/fonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\fonts\font-awesome\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://www.detailingtemplates.com/templates/007/fonts/font-awesome/fonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\fonts\font-awesome\fonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.detailingtemplates.com/templates/007/fonts/font-awesome/fonts/fa-regular-400.eot?
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\fonts\font-awesome\fonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.detailingtemplates.com/templates/007/fonts/font-awesome/fonts/fa-regular-400.svg
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\fonts\font-awesome\fonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://www.detailingtemplates.com/templates/007/fonts/font-awesome/fonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\fonts\font-awesome\fonts\fa-regular-400.ttf
+Content Type: font/ttf
+
+Uri: https://www.detailingtemplates.com/templates/007/fonts/font-awesome/fonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\fonts\font-awesome\fonts\fa-regular-400.woff
+Content Type: font/woff
+
+Uri: https://www.detailingtemplates.com/templates/007/fonts/font-awesome/fonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\fonts\font-awesome\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://www.detailingtemplates.com/templates/007/fonts/font-awesome/fonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\fonts\font-awesome\fonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.detailingtemplates.com/templates/007/fonts/font-awesome/fonts/fa-solid-900.eot?
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\fonts\font-awesome\fonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.detailingtemplates.com/templates/007/fonts/font-awesome/fonts/fa-solid-900.svg
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\fonts\font-awesome\fonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://www.detailingtemplates.com/templates/007/fonts/font-awesome/fonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\fonts\font-awesome\fonts\fa-solid-900.ttf
+Content Type: font/ttf
+
+Uri: https://www.detailingtemplates.com/templates/007/fonts/font-awesome/fonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\fonts\font-awesome\fonts\fa-solid-900.woff
+Content Type: font/woff
+
+Uri: https://www.detailingtemplates.com/templates/007/fonts/font-awesome/fonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\fonts\font-awesome\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://www.detailingtemplates.com/templates/007/fonts/icomoon/icomoon.eot?kyo8m
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\fonts\icomoon\icomoon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.detailingtemplates.com/templates/007/fonts/icomoon/icomoon.svg?kyo8m
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\fonts\icomoon\icomoon.svg
+Content Type: image/svg+xml
+
+Uri: https://www.detailingtemplates.com/templates/007/fonts/icomoon/icomoon.ttf?kyo8m
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\fonts\icomoon\icomoon.ttf
+Content Type: font/ttf
+
+Uri: https://www.detailingtemplates.com/templates/007/fonts/icomoon/icomoon.woff?kyo8m
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\fonts\icomoon\icomoon.woff
+Content Type: font/woff
+
+Uri: https://www.detailingtemplates.com/templates/007/images/001-th.jpg
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\images\001-th.jpg
+Content Type: image/jpeg
+
+Uri: https://www.detailingtemplates.com/templates/007/images/001.jpg
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\images\001.jpg
+Content Type: image/jpeg
+
+Uri: https://www.detailingtemplates.com/templates/007/images/about-us-2.jpg
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\images\about-us-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.detailingtemplates.com/templates/007/images/about-us.jpg
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\images\about-us.jpg
+Content Type: image/jpeg
+
+Uri: https://www.detailingtemplates.com/templates/007/images/ajax-loader.gif
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\images\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://www.detailingtemplates.com/templates/007/images/bottom_mask.png
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\images\bottom_mask.png
+Content Type: image/png
+
+Uri: https://www.detailingtemplates.com/templates/007/images/bottom_mask2.png
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\images\bottom_mask2.png
+Content Type: image/png
+
+Uri: https://www.detailingtemplates.com/templates/007/images/callout2.svg
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\images\callout2.svg
+Content Type: image/svg+xml
+
+Uri: https://www.detailingtemplates.com/templates/007/images/favicons/apple-touch-icon-114x114-precomposed.png
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\images\favicons\apple-touch-icon-114x114-precomposed.png
+Content Type: image/png
+
+Uri: https://www.detailingtemplates.com/templates/007/images/favicons/apple-touch-icon-144x144-precomposed.png
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\images\favicons\apple-touch-icon-144x144-precomposed.png
+Content Type: image/png
+
+Uri: https://www.detailingtemplates.com/templates/007/images/favicons/apple-touch-icon-72x72-precomposed.png
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\images\favicons\apple-touch-icon-72x72-precomposed.png
+Content Type: image/png
+
+Uri: https://www.detailingtemplates.com/templates/007/images/favicons/apple-touch-icon-precomposed.png
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\images\favicons\apple-touch-icon-precomposed.png
+Content Type: image/png
+
+Uri: https://www.detailingtemplates.com/templates/007/images/favicons/favicon-32x32.png
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\images\favicons\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://www.detailingtemplates.com/templates/007/images/graph1.jpg
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\images\graph1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.detailingtemplates.com/templates/007/images/graph2.jpg
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\images\graph2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.detailingtemplates.com/templates/007/images/graph3.jpg
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\images\graph3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.detailingtemplates.com/templates/007/images/graph4.jpg
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\images\graph4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.detailingtemplates.com/templates/007/images/header-inner.jpg
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\images\header-inner.jpg
+Content Type: image/jpeg
+
+Uri: https://www.detailingtemplates.com/templates/007/images/hoverme-dark.png
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\images\hoverme-dark.png
+Content Type: image/png
+
+Uri: https://www.detailingtemplates.com/templates/007/images/hoverme.png
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\images\hoverme.png
+Content Type: image/png
+
+Uri: https://www.detailingtemplates.com/templates/007/images/index-01.jpg
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\images\index-01.jpg
+Content Type: image/jpeg
+
+Uri: https://www.detailingtemplates.com/templates/007/images/list-style1.png
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\images\list-style1.png
+Content Type: image/png
+
+Uri: https://www.detailingtemplates.com/templates/007/images/list-style2.png
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\images\list-style2.png
+Content Type: image/png
+
+Uri: https://www.detailingtemplates.com/templates/007/images/logo.png
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\images\logo.png
+Content Type: image/png
+
+Uri: https://www.detailingtemplates.com/templates/007/images/ok3.png
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\images\ok3.png
+Content Type: image/png
+
+Uri: https://www.detailingtemplates.com/templates/007/images/plus01.png
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\images\plus01.png
+Content Type: image/png
+
+Uri: https://www.detailingtemplates.com/templates/007/images/shadow-down.png
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\images\shadow-down.png
+Content Type: image/png
+
+Uri: https://www.detailingtemplates.com/templates/007/images/shadow-up.png
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\images\shadow-up.png
+Content Type: image/png
+
+Uri: https://www.detailingtemplates.com/templates/007/images/transparent_png/white40.png
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\images\transparent_png\white40.png
+Content Type: image/png
+
+Uri: https://www.detailingtemplates.com/templates/007/images/transparent_png/white70.png
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\images\transparent_png\white70.png
+Content Type: image/png
+
+Uri: https://www.detailingtemplates.com/templates/007/index.html
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\index.html
+Content Type: text/html
+
+Uri: https://www.detailingtemplates.com/templates/007/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://www.detailingtemplates.com/templates/007/js/bootstrap.msq.js
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\js\bootstrap.msq.js
+Content Type: application/javascript
+
+Uri: https://www.detailingtemplates.com/templates/007/js/jquery.js
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\js\jquery.js
+Content Type: application/javascript
+
+Uri: https://www.detailingtemplates.com/templates/007/js/kl-custom.js
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\js\kl-custom.js
+Content Type: application/javascript
+
+Uri: https://www.detailingtemplates.com/templates/007/js/kl-plugins.js
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\js\kl-plugins.js
+Content Type: application/javascript
+
+Uri: https://www.detailingtemplates.com/templates/007/js/kl-scripts.js
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\js\kl-scripts.js
+Content Type: application/javascript
+
+Uri: https://www.detailingtemplates.com/templates/007/js/modernizr.min.js
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\js\modernizr.min.js
+Content Type: application/javascript
+
+Uri: https://www.detailingtemplates.com/templates/007/js/plugins/parallax/KyHtmlParallax.js
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\js\plugins\parallax\KyHtmlParallax.js
+Content Type: application/javascript
+
+Uri: https://www.detailingtemplates.com/templates/007/js/plugins/parallax/parallax.js
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\js\plugins\parallax\parallax.js
+Content Type: application/javascript
+
+Uri: https://www.detailingtemplates.com/templates/007/js/plugins/_sliders/slick/slick.js
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\js\plugins\_sliders\slick\slick.js
+Content Type: application/javascript
+
+Uri: https://www.detailingtemplates.com/templates/007/js/trigger/kl-google-maps-style2.js
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\js\trigger\kl-google-maps-style2.js
+Content Type: application/javascript
+
+Uri: https://www.detailingtemplates.com/templates/007/js/trigger/kl-slick-slider.js
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\js\trigger\kl-slick-slider.js
+Content Type: application/javascript
+
+Uri: https://www.detailingtemplates.com/templates/007/portfolio.html
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\portfolio.html
+Content Type: text/html
+
+Uri: https://www.detailingtemplates.com/templates/007/services.html
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\templates\007\services.html
+Content Type: text/html
+
+Uri: https://www.google.com/recaptcha/api.js
+File Name: C:\Downloaded Web Sites\www.detailingtemplates.com\recaptcha\api.js
+Content Type: text/javascript
+
